@@ -1,8 +1,6 @@
 # 💫 HELLOOOOOOOO
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Lãng+tử+cô+đơn;Chinh+phục+C%2B%2B;Master+Python;Chào+mừng+đến+với+thế+giới+của+tôi!" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=KhongTheSay%20Top%20Server&fontSize=70&animation=fadeIn" />
 </p>
 
 ### 👨‍💻 Kỹ năng lập trình

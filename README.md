@@ -1,7 +1,8 @@
 # 💫 HELLOOOOOOOO
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=KhongTheSay%20Top%20Server&fontSize=70&animation=fadeIn" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KhongTheSay&show_icons=true&theme=radical&count_private=true" />
 </p>
+
 
 ### 👨‍💻 Kỹ năng lập trình
 ![C++](https://img.shields.io/badge/C++-47.2%25-pink?style=for-the-badge&logo=c%2B%2B) 

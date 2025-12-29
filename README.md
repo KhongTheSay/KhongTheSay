@@ -5,7 +5,7 @@
 
 
 ### 👨‍💻 Kỹ năng lập trình
-![C++](https://img.shields.io/badge/C++-47.2%25-pink?style=for-the-badge&logo=c%2B%2B) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-8.1%25-blue?style=for-the-badge&logo=python) 
 
 

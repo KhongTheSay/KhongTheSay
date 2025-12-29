@@ -10,8 +10,6 @@
 ### 🤝 Kết nối với lãng tử
 [![Facebook](https://img.shields.io/badge/Facebook-Kết_nối-blue?style=social&logo=facebook)](LINK_FACEBOOK_CỦA_BẠN)
 
-
-Bạn đã gửi
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZqbm56cGx0MjVibHZieG5meXI3bGdqYzd5ZGEyZmk5amljZXVsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LLsUNd14gwSkSLYTcR/giphy.gif" width="400" />
 </p>

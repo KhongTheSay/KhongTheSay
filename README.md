@@ -1,7 +1,11 @@
-# 💫 Chào mừng đến với hồ sơ của KhongTheSay!
+# 💫 HELLOOOOOOOO
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Chào%20mừng%20đến%20với%20KhongTheSay&fontSize=40" />
+</p>
 
 ### 👨‍💻 Kỹ năng lập trình
-![C++](https://img.shields.io/badge/C++-47.2%25-pink?style=for-the-badge&logo=c%2B%2B) ![Python](https://img.shields.io/badge/Python-8.1%25-blue?style=for-the-badge&logo=python) 
+![C++](https://img.shields.io/badge/C++-47.2%25-pink?style=for-the-badge&logo=c%2B%2B) 
+![Python](https://img.shields.io/badge/Python-8.1%25-blue?style=for-the-badge&logo=python) 
 
 
 

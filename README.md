@@ -1,13 +1,16 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Tiêu đề trang</title>
-</head>
 
-<body>
-    <h1>Tôi là Mạnh người đẹp trai nhất ở đâu</h1>
-        <p>Bây giờ như nào sao nhở , sao lại không pho lâu nhau nhờ </p>
-        <p>  okkokokokokk  </p>
-    <h1> Mời em về stu của anh , ngay ở khu nhà nahhh</h1>
-</body>
-</html>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eHkzNzg2ZGh6bHdtd3Vrb2F4bnBzZTcxZWp6ODExdDJmMmVqemd6eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPOp0rmUUEKfcvFckS/giphy.gif" width="400" />
+</p>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eHkzNzg2ZGh6bHdtd3Vrb2F4bnBzZTcxZWp6ODExdDJmMmVqemd6eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPOp0rmUUEKfcvFckS/giphy.gif" width="400" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZqbm56cGx0MjVibHZieG5meXI3bGdqYzd5ZGEyZmk5amljZXVsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LLsUNd14gwSkSLYTcR/giphy.gif" width="400" />
+</p>  <h1> ảnh 1 </h1>
+

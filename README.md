@@ -20,7 +20,7 @@ University of Engineering and Technology – Vietnam National University, Hanoi
 <p align="center">
   <br>
   <blockquote>
-    <h3 align="center"><i>"Nho Nguoi Yeu Cu"</i></h3>
+    <h3 align="center"><i>"NoLoveNoLife"</i></h3>
   </blockquote>
   <br>
 </p>

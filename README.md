@@ -10,57 +10,90 @@ University of Engineering and Technology – Vietnam National University, Hanoi
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=IT+Student;Learning+DSA;Competitive+Programming+Beginner&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=4000&pause=1000&color=F7E018&center=true&vCenter=true&width=600&lines=Welcome+to+my+Code+Space;A+Passionate+UET+Student;Learning+to+change+the+world;The+Lonely+Wanderer+in+Tech&gradient=true&paintOrder=stroke&color=FFD700&secondaryColor=FFF5EE">
+</p>
+
+<p align="center">
+  <img src="(DÁN_LINK_ẢNH_CÂU_CHÂM_NGÔN_CỦA_BẠN_TẠI_ĐÂY)" alt="Châm ngôn yêu thích của Lãng Tử" width="auto" height="120"/>
 </p>
 
 ---
 
 ## 👤 About Me
 - 🎓 First-year **Information Technology** student at **VNU-UET**
-- 💻 Interested in **Data Structures & Algorithms**
-- 🧠 Learning and practicing **Competitive Programming**
-- 🚀 Currently building a strong programming foundation
+- 💻 Interested in **Programming & Algorithms**
+- 🚀 Currently building a strong foundation in software development
+<br>
+
+- ✍️ 
+- 🌟 
+- 📖 
+
+<br>
 
 ---
 
-## 🛠 Programming Languages
+## 🛠 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
 </p>
 
 ---
 
 ## 🏆 Coding Profiles
-*(Links will be added later)*
-
-- 🔗 **LeetCode**: https://leetcode.com/your-username  
-- 🔗 **GeeksforGeeks**: https://auth.geeksforgeeks.org/user/your-profile  
-- 🔗 **Codeforces**: https://codeforces.com/profile/your-handle  
-- 🔗 **HackerRank**: https://www.hackerrank.com/your-username  
-
----
-
-## 🤝 Connect with Me
 <p align="left">
-  <a href="https://facebook.com/your-facebook" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" />
+  <a href="(DÁN_LINK_LEETCODE_TẠI_ĐÂY)" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45" alt="LeetCode" />
   </a>
-  <a href="https://instagram.com/your-instagram" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="(DÁN_LINK_CODEFORCES_TẠI_ĐÂY)" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="45" alt="Codeforces" />
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="(DÁN_LINK_GEEKSFORGEEKS_TẠI_ĐÂY)" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="45" alt="GeeksforGeeks" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="(DÁN_LINK_HACKERRANK_TẠI_ĐÂY)" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="45" alt="HackerRank" />
+  </a>
+</p>
+
+---
+
+## 🤝 Connect với Lãng Tử
+<p align="left">
+  <a href="(DÁN_LINK_FACEBOOK_TẠI_ĐÂY)" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="45" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="(DÁN_LINK_INSTAGRAM_TẠI_ĐÂY)" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="45" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="(DÁN_LINK_TIKTOK_TẠI_ĐÂY)" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" width="45" alt="TikTok" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:EMAIL_CỦA_BẠN@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45" alt="Gmail" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my GitHub profile!
-</p>
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile!
+✨ Thanks for visiting my GitHub profile!
 </p>

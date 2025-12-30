@@ -1,48 +1,37 @@
 <h1 align="center">Hi 👋, I'm MissUrEx</h1>
+
 <h3 align="center">
-First-year IT Student @ VNU University of Engineering and Technology <br>
-Aspiring Software Engineer | DSA & Competitive Programming
+First-year Information Technology Student <br>
+University of Engineering and Technology – Vietnam National University, Hanoi
 </h3>
 
 <p align="center">
-📍 Nam Định, Việt Nam
+📍 Nam Dinh, Vietnam
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=IT+Student;DSA+Learner;Competitive+Programming+Beginner;Future+Software+Engineer&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=IT+Student;Learning+DSA;Competitive+Programming+Beginner&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Sinh viên năm nhất **Công nghệ Thông tin**  
-  **Đại học Công Nghệ – Đại học Quốc Gia Hà Nội (VNU-UET)**
-- 🧠 Đang xây nền tảng **Data Structures & Algorithms**
-- 🏃‍♂️ Luyện tập **Competitive Programming**
-- 🎯 Mục tiêu: xây nền **vững thuật toán → intern / software engineer**
+## 👤 About Me
+- 🎓 First-year **Information Technology** student at **VNU-UET**
+- 💻 Interested in **Data Structures & Algorithms**
+- 🧠 Learning and practicing **Competitive Programming**
+- 🚀 Currently building a strong programming foundation
 
 ---
 
-## 🛠️ Programming Languages & Tools
+## 🛠 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html" />
 </p>
 
 ---
 
-## 📚 DSA & Topics I'm Learning
-- Arrays, Strings
-- Sorting, Binary Search
-- Two Pointers, Sliding Window
-- Recursion, Backtracking
-- Stack, Queue, Linked List
-- Basic Dynamic Programming (in progress)
-- Graph fundamentals (BFS, DFS)
-
----
-
-## 🏆 Competitive Programming Profiles
-> *Links sẽ được cập nhật khi luyện tập*
+## 🏆 Coding Profiles
+*(Links will be added later)*
 
 - 🔗 **LeetCode**: https://leetcode.com/your-username  
 - 🔗 **GeeksforGeeks**: https://auth.geeksforgeeks.org/user/your-profile  
@@ -51,22 +40,24 @@ Aspiring Software Engineer | DSA & Competitive Programming
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhongTheSay&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhongTheSay&theme=tokyonight&hide_border=true" />
+## 🤝 Connect with Me
+<p align="left">
+  <a href="https://facebook.com/your-facebook" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
+  <a href="https://instagram.com/your-instagram" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Future Plans
-- 📌 Hoàn thiện nền tảng **DSA + CP**
-- 📌 Build các repo thuật toán theo topic
-- 📌 Tham gia contest (Codeforces, LeetCode)
-- 📌 Chuẩn bị cho **internship trong tương lai**
+<p align="center">
+⭐ Thanks for visiting my GitHub profile!
+</p>
 
 ---
 

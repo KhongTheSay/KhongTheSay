@@ -1,16 +1,23 @@
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eHkzNzg2ZGh6bHdtd3Vrb2F4bnBzZTcxZWp6ODExdDJmMmVqemd6eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPOp0rmUUEKfcvFckS/giphy.gif" width="400" />
-</p>
+# 🌌 Chào mừng tới vùng trời của langtuc0d0n CN1
 
+![Ảnh động của bạn](URL_ANH_DONG_CUA_BAN)
 
-<p align="center">
-  <img src="https://www.pinterest.com/pin/2674081024544924/feedback/?invite_code=03bc3062461e49949da74980a2b5371e&sender_id=1150810648440104748" width="400" />
-</p>
+### ⚡ "Code không chỉ là những dòng lệnh, nó là tâm hồn của kẻ lãng tử."
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9CAFF&center=true&vCenter=true&width=435&lines=Lập+trình+viên+Fullstack;Kẻ+mơ+mộng+xuyên+không+gian;Luôn+kiếm+tìm+sự+hoàn+mỹ)](https://git.io/typing-svg)
 
+---
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZqbm56cGx0MjVibHZieG5meXI3bGdqYzd5ZGEyZmk5amljZXVsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LLsUNd14gwSkSLYTcR/giphy.gif" width="400" />
-</p>  <h1> ảnh 1 </h1>
+### 🛠 Kỹ năng & Công cụ
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
+---
+
+### 📊 Thống kê hành trình
+<img src="https://github-readme-stats.vercel.app/api?username=TEN_GITHUB_CUA_BAN&show_icons=true&theme=tokyonight" alt="Stats" />
+
+</div>

@@ -70,7 +70,7 @@ University of Engineering and Technology – Vietnam National University, Hanoi
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="45" alt="GeeksforGeeks" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/tranducmanh24041" target="_blank">
+  <a href="(https://www.hackerrank.com/profile/tranducmanh24041)" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="45" alt="HackerRank" />
   </a>
 </p>

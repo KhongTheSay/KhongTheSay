@@ -1,23 +1,75 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm MissUrEx</h1>
+<h3 align="center">
+First-year IT Student @ VNU University of Engineering and Technology <br>
+Aspiring Software Engineer | DSA & Competitive Programming
+</h3>
 
-# 🌌 Chào mừng tới vùng trời của langtuc0d0n CN1
+<p align="center">
+📍 Nam Định, Việt Nam
+</p>
 
-![Ảnh động của bạn](URL_ANH_DONG_CUA_BAN)
-
-### ⚡ "Code không chỉ là những dòng lệnh, nó là tâm hồn của kẻ lãng tử."
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9CAFF&center=true&vCenter=true&width=435&lines=Lập+trình+viên+Fullstack;Kẻ+mơ+mộng+xuyên+không+gian;Luôn+kiếm+tìm+sự+hoàn+mỹ)](https://git.io/typing-svg)
-
----
-
-### 🛠 Kỹ năng & Công cụ
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=IT+Student;DSA+Learner;Competitive+Programming+Beginner;Future+Software+Engineer&center=true&width=550&height=45">
+</p>
 
 ---
 
-### 📊 Thống kê hành trình
-<img src="https://github-readme-stats.vercel.app/api?username=TEN_GITHUB_CUA_BAN&show_icons=true&theme=tokyonight" alt="Stats" />
+## 👨‍💻 About Me
+- 🎓 Sinh viên năm nhất **Công nghệ Thông tin**  
+  **Đại học Công Nghệ – Đại học Quốc Gia Hà Nội (VNU-UET)**
+- 🧠 Đang xây nền tảng **Data Structures & Algorithms**
+- 🏃‍♂️ Luyện tập **Competitive Programming**
+- 🎯 Mục tiêu: xây nền **vững thuật toán → intern / software engineer**
 
-</div>
+---
+
+## 🛠️ Programming Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,git,github,linux,vscode" />
+</p>
+
+---
+
+## 📚 DSA & Topics I'm Learning
+- Arrays, Strings
+- Sorting, Binary Search
+- Two Pointers, Sliding Window
+- Recursion, Backtracking
+- Stack, Queue, Linked List
+- Basic Dynamic Programming (in progress)
+- Graph fundamentals (BFS, DFS)
+
+---
+
+## 🏆 Competitive Programming Profiles
+> *Links sẽ được cập nhật khi luyện tập*
+
+- 🔗 **LeetCode**: https://leetcode.com/your-username  
+- 🔗 **GeeksforGeeks**: https://auth.geeksforgeeks.org/user/your-profile  
+- 🔗 **Codeforces**: https://codeforces.com/profile/your-handle  
+- 🔗 **HackerRank**: https://www.hackerrank.com/your-username  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KhongTheSay&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhongTheSay&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Future Plans
+- 📌 Hoàn thiện nền tảng **DSA + CP**
+- 📌 Build các repo thuật toán theo topic
+- 📌 Tham gia contest (Codeforces, LeetCode)
+- 📌 Chuẩn bị cho **internship trong tương lai**
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>

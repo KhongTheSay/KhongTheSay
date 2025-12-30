@@ -77,7 +77,7 @@ University of Engineering and Technology – Vietnam National University, Hanoi
 
 ---
 
-## 🤝 Connect với Lãng Tử
+## 🤝 Connect với LangTuC0Don
 <p align="left">
   <a href="https://www.facebook.com/ducmanhThe.one.and.only" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="45" alt="Facebook" />

@@ -54,19 +54,19 @@ University of Engineering and Technology – Vietnam National University, Hanoi
 
 ## 🏆 Coding Profiles
 <p align="left">
-  <a href="(DÁN_LINK_LEETCODE_TẠI_ĐÂY)" target="_blank">
+  <a href="https://leetcode.com/u/KhongTheSay111/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="(DÁN_LINK_CODEFORCES_TẠI_ĐÂY)" target="_blank">
+  <a href="https://codeforces.com/profile/duyymanh_at4am" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="45" alt="Codeforces" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="(DÁN_LINK_GEEKSFORGEEKS_TẠI_ĐÂY)" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/tranducmaneg89?from=explore" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="45" alt="GeeksforGeeks" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="(DÁN_LINK_HACKERRANK_TẠI_ĐÂY)" target="_blank">
+  <a href="https://www.hackerrank.com/profile/tranducmanh24041" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="45" alt="HackerRank" />
   </a>
 </p>

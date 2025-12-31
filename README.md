@@ -27,7 +27,7 @@ University of Engineering and Technology – Vietnam National University, Hanoi
 
 ---
 
-## 👤 About Me
+## 👤 About me 
 - 🎓 First-year **Information Technology** student at **VNU-UET**
 - 💻 Interested in **Programming & Algorithms**
 - 🚀 Currently building a strong foundation in software development

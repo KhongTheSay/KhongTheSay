@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MissUrEx</h1>
+<!-- <h1 align="center">Hi 👋, I'm MissUrEx</h1>
 
 <h3 align="center">
 First-year Information Technology Student <br>
@@ -98,6 +98,6 @@ University of Engineering and Technology – Vietnam National University, Hanoi
 
 ---
 
-<p align="center">
+<p align="center"> -->
 ✨ Thanks for visiting my GitHub profile!
 </p>

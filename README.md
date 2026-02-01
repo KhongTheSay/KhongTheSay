@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm MissUrEx</h1>
+<h1 align="center">Hi 👋, I'm MissUrEx</h1>
 
 <h3 align="center">
 First-year Information Technology Student <br>

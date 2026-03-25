@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MissUrEx</h1>
+<!-- <h1 align="center">Hi 👋, I'm MissUrEx</h1>
 
 <h3 align="center">
 First-year Information Technology Student <br>
@@ -73,7 +73,7 @@ University of Engineering and Technology – Vietnam National University, Hanoi
   <a href="(https://www.hackerrank.com/profile/tranducmanh24041)" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="45" alt="HackerRank" />
   </a>
-</p>
+</p> -->
 
 ---
 
